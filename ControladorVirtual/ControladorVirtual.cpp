@@ -162,11 +162,3 @@ int main() {
     return 0;
 
 }
-
-/*
-Controle;
-\\?\HID#{00001124-0000-1000-8000-00805f9b34fb}_VID&00021949_PID&0402&Col01#a&16dd6de9&0&0000#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
-
-Teclado;
-\\?\HID#VID_048D&PID_C966&Col02#7&1ccb74b1&0&0001#{884b96c3-56ef-11d1-bc8c-00a0c91405dd}
-*/
