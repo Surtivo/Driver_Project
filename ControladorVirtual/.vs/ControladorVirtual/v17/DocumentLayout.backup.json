@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\emanu\\Downloads\\Driver Project\\ControladorVirtual\\",
+  "WorkspaceRootPath": "C:\\Users\\emanu\\source\\repos\\Driver_Project\\ControladorVirtual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29287581-D4E5-4ADE-A066-36CDAAB9FA58}|ControladorVirtual.vcxproj|C:\\Users\\emanu\\Downloads\\Driver Project\\ControladorVirtual\\ControladorVirtual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{29287581-D4E5-4ADE-A066-36CDAAB9FA58}|ControladorVirtual.vcxproj|C:\\Users\\emanu\\source\\repos\\Driver_Project\\ControladorVirtual\\ControladorVirtual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{29287581-D4E5-4ADE-A066-36CDAAB9FA58}|ControladorVirtual.vcxproj|solutionrelative:ControladorVirtual.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ControladorVirtual.cpp",
-              "DocumentMoniker": "C:\\Users\\emanu\\Downloads\\Driver Project\\ControladorVirtual\\ControladorVirtual.cpp",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Driver_Project\\ControladorVirtual\\ControladorVirtual.cpp",
               "RelativeDocumentMoniker": "ControladorVirtual.cpp",
-              "ToolTip": "C:\\Users\\emanu\\Downloads\\Driver Project\\ControladorVirtual\\ControladorVirtual.cpp",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Driver_Project\\ControladorVirtual\\ControladorVirtual.cpp",
               "RelativeToolTip": "ControladorVirtual.cpp",
-              "ViewState": "AgIAACIAAAAAAAAAAAAIwEcAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-13T00:06:09.569Z",
               "EditorCaption": ""
